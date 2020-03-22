@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubBanner renders correctly 1`] = `
+<v-container>
+  <v-row align="center" justify="center" class="d-flex flex-column justify-center mt-10">
+    <v-img src="../assets/GitHub_Logo.png" width="600px"></v-img>
+    <v-col class="text-center">
+      <h1 data-test="git-hub-banner-text" class="display-1">Lista de repositórios</h1>
+    </v-col>
+  </v-row>
+</v-container>
+`;

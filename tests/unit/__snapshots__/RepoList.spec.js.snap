@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RepoList renders correctly 1`] = `
+<v-container fluid="">
+  <v-row justify="center"></v-row>
+  <div class="text-center mt-4">
+    <!---->
+  </div>
+</v-container>
+`;
